@@ -6,4 +6,4 @@ Simple linear regression is used to estimate the relationship between two quanti
 
 `Predecting the Salary of Employee` model
 ![](https://github.com/SahilHemnani777/Regression/blob/main/2021-02-21%20(1).png)
-1[](https://github.com/SahilHemnani777/Regression/blob/main/2021-02-21%20(2).png)
+![](https://github.com/SahilHemnani777/Regression/blob/main/2021-02-21%20(2).png)
