@@ -18,7 +18,7 @@ Multiple linear regression (MLR), also known simply as multiple regression, is a
 
 `Predecting how t0 maximise the profit dor the startup` model
 
-<img src="https://github.com/SahilHemnani777/Regression/blob/main/2021-03-02.png" alt="EShopee: Flutter eCommerce App" width="400" height="250"/>
-
 
 [CodeLab](https://github.com/SahilHemnani777/Regression/blob/main/Copy_of_multiple_linear_regression.ipynb)
+
+<img src="https://github.com/SahilHemnani777/Regression/blob/main/2021-03-02.png" alt="EShopee: Flutter eCommerce App" width="400" height="250"/>
