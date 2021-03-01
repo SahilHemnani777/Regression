@@ -16,7 +16,7 @@ Simple linear regression is used to estimate the relationship between two quanti
 
 Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. Multiple regression is an extension of linear (OLS) regression that uses just one explanatory variable. MLR is used extensively in econometrics and financial inference.
 
-`Predecting how t0 maximise the profit dor the startup` model
+`Predecting how to maximise the profit for the startup` model
 
 
 [CodeLab](https://github.com/SahilHemnani777/Regression/blob/main/Copy_of_multiple_linear_regression.ipynb)
